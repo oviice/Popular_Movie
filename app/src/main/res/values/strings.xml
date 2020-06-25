@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="mark_as_nfavourite">Mark AS \nFavourite</string>
+    <string name="title_activity_video_player">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="movie_detail">Movie Detail</string>
+</resources>
